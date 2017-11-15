@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Push Yourself</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_info">Info</string>
+    <string name="action_favorite">Favourite</string>
+    <string name="action_search">Search</string>
+    <string name="share">Share</string>
+    <string name="text_music">Music</string>
+    <string name="text_schedules">Schedule</string>
+    <string name="text_exercises">Exercises</string>
+    <string name="text_achievements">Achievements</string>
+    <string name="text_more">More</string>
+    <string name="example_exercise">Example exercise</string>
+</resources>
